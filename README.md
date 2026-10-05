@@ -1,7 +1,7 @@
 # Opal glass method for microalgae pigment quantification, CNN algorithm
 
 Repository hosting the Python codes (please be kind with the typos in the comments) and data associated with the articles:
-- [Opal glass method, an extraction-free way to access microalgae pigment content.](https://doi.org/10.1016/j.biortech.2026.135966) Pozzobon, V., Arnoudts, C., & Levasseur, W. (2026). _Bioresource Technology_, 464B, 135966.. [(Publisher Open Access)]([https://pdf.sciencedirectassets.com](https://www.sciencedirect.com/science/article/pii/S0960852426020481/pdfft?md5=331797083ca546acd69b30ed21ceb0d2&pid=1-s2.0-S0960852426020481-main.pdf)) [(PDF file)](https://victorpozzobon.github.io/assets/preprints/Pozzobon_2026_f.pdf) [(Supplementary materials)](https://victorpozzobon.github.io/assets/preprints/Pozzobon_2026_f_Supplementary_Materials.pdf)
+- [Opal glass method, an extraction-free way to access microalgae pigment content.](https://doi.org/10.1016/j.biortech.2026.135966) Pozzobon, V., Arnoudts, C., & Levasseur, W. (2026). _Bioresource Technology_, 464B, 135966. [(Publisher Open Access)]([https://pdf.sciencedirectassets.com](https://www.sciencedirect.com/science/article/pii/S0960852426020481/pdfft?md5=331797083ca546acd69b30ed21ceb0d2&pid=1-s2.0-S0960852426020481-main.pdf)) [(PDF file)](https://victorpozzobon.github.io/assets/preprints/Pozzobon_2026_f.pdf) [(Supplementary materials)](https://victorpozzobon.github.io/assets/preprints/Pozzobon_2026_f_Supplementary_Materials.pdf)
 
 It has been tested successfully in October 2026.
 
